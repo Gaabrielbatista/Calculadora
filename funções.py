@@ -1,12 +1,12 @@
 import os
 from math import sqrt
-
+# Limpa o terminal
 def limpar():
     os.system("cls" if os.name == "nt" else "clear")
 
 def pausar():
     input("\nPressione enter para continuar...")
-
+# Receber número
 def ler_float(mensagem):
     while True:
         try:
@@ -15,13 +15,13 @@ def ler_float(mensagem):
         
         except ValueError:
             print("\nErro: Digite apenas números.")
-
+# Armazenar dois números
 def ler_dois_numeros():
     x = ler_float("Digite o primeiro número: ")
     y = ler_float("Digite o segundo número: ")
 
     return x, y
-
+# Operações
 def soma(x, y):
     return x + y
 
@@ -36,7 +36,7 @@ def divisao(x, y):
 
 def potencia(x, y):
     return x ** y
-
+# Menu
 def menu():
     while True:
         limpar()
