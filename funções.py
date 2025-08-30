@@ -45,7 +45,7 @@ def menu():
         print("[5] Potência\n[6] Raiz Quadrada\n[7] Sair")
 
         try:
-            opcao = int(input(": "))
+            opcao = int(input("Escolha uma opção: "))
         except ValueError:
             print("Digite apenas números.")
 
