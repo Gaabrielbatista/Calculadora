@@ -1,6 +1,6 @@
 # 🧮 Calculadora em Python
 
-Uma aplicação de terminal desenvolvida em Python que oferece as operações matemáticas: soma, subtração, multiplicação, divisão, potência e raiz quadrada. O programa utiliza funções dedicadas para cada operação e um loop que permite ao usuário realizar múltiplos cálculos sem reiniciar o programa.
+Uma programa de terminal desenvolvido em Python com as operações matemáticas: soma, subtração, multiplicação, divisão, potência e raiz quadrada. O programa utiliza funções para cada operação e um loop que permite ao usuário realizar múltiplos cálculos sem reiniciar o programa.
 
 
 ## 🔧 Funcionalidades
