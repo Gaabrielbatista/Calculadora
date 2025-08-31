@@ -1,4 +1,4 @@
-import funções
+import utils
 
 # Inicializar calculadora
-funções.menu()
+utils.menu()
