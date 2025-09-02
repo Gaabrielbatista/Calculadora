@@ -1,4 +1,5 @@
 import utils
 
 # Inicializar calculadora
-utils.menu()
+if __name__ == "__main__":
+  utils.menu()
