@@ -103,7 +103,7 @@ def menu():
             continue
 
         elif opcao == 5:
-            print("\nPotencia")
+            print("\nPotência")
 
             num1, num2 = ler_dois_numeros()
 
