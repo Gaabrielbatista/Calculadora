@@ -13,3 +13,14 @@ Uma programa de terminal desenvolvido em Python com as operações matemáticas:
 
 - Python 3;
 - Bibliotecas: `os` para limpar o terminal e `math` para a raiz quadrada.
+
+## 📋 Status do Projeto
+
+### ✅ Implementado:
+- [x] 
+      
+### 🔄 Em Desenvolvimento:
+- [ ] 
+
+### 🔮 Próximas Features:
+- [ ] 
